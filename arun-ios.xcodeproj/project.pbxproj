@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		58A671249430F23B72476517 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 58A6788A49EBE6AD62C34393 /* Preview Assets.xcassets */; };
 		58A676E8EACD315010DD2C42 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A67B3FC16507E651C458B6 /* ContentView.swift */; };
-		58A677FAC9D1FE44988301AD /* applayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A674F0BAAD07424B872A71 /* applayout.swift */; };
 		58A678BFA68E8FDE73C42354 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A671B10C2580DE26F92EBB /* Item.swift */; };
 		58A67A3FE02E31C3167EB7F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 58A677CF118C296E702376A4 /* Assets.xcassets */; };
 		58A67EEB90B79F2DA6B1F171 /* apptheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A67F1807FB9F1EC88E79EA /* apptheme.swift */; };
@@ -19,7 +18,6 @@
 /* Begin PBXFileReference section */
 		58A671B10C2580DE26F92EBB /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		58A6721BF89F7805CCC24E4B /* arun_iosApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arun_iosApp.swift; sourceTree = "<group>"; };
-		58A674F0BAAD07424B872A71 /* applayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = applayout.swift; sourceTree = "<group>"; };
 		58A677CF118C296E702376A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		58A6788A49EBE6AD62C34393 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		58A67B3FC16507E651C458B6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,7 +53,6 @@
 				58A67B3FC16507E651C458B6 /* ContentView.swift */,
 				58A671B10C2580DE26F92EBB /* Item.swift */,
 				58A67F1807FB9F1EC88E79EA /* apptheme.swift */,
-				58A674F0BAAD07424B872A71 /* applayout.swift */,
 			);
 			path = "arun-ios";
 			sourceTree = "<group>";
@@ -139,7 +136,6 @@
 				58A676E8EACD315010DD2C42 /* ContentView.swift in Sources */,
 				58A678BFA68E8FDE73C42354 /* Item.swift in Sources */,
 				58A67EEB90B79F2DA6B1F171 /* apptheme.swift in Sources */,
-				58A677FAC9D1FE44988301AD /* applayout.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
